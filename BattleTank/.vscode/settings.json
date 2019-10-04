@@ -1,0 +1,10 @@
+{
+	"files.exclude": {
+		"/home/ismael.echenique/UnrealProjects/battle_tank/BattleTank/.kdev4": true,
+		"/home/ismael.echenique/UnrealProjects/battle_tank/BattleTank/.vscode": true,
+		"/home/ismael.echenique/UnrealProjects/battle_tank/BattleTank/Content": true,
+		"/home/ismael.echenique/UnrealProjects/battle_tank/BattleTank/DerivedDataCache": true,
+		"/home/ismael.echenique/UnrealProjects/battle_tank/BattleTank/Intermediate": true,
+		"/home/ismael.echenique/UnrealProjects/battle_tank/BattleTank/Saved": true
+	}
+}
